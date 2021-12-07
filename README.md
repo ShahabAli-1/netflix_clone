@@ -1,6 +1,6 @@
-# simple-react-setup
+# netflix clone
 
-A super simple react setup from scratch with all the basics that you might need.
+basic netflix clone using react
 
 ## How to use
 
