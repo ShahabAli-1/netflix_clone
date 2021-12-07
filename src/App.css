@@ -1,0 +1,11 @@
+/*This below margin css gets rid of all the 
+imaginary margins that are added on their own to 
+the components so now only your margins if u apply them
+would be added to the components */
+
+* {
+  margin: 0;
+}
+.app {
+  background-color: #111;
+}
